@@ -24,11 +24,11 @@ If you're using Linux, you'll want to have the required dependencies installed o
 ## How to run
 1. Using NPM
 To install Cypress using the npm (Node package manager) navigate to the project directory and execute the following command:
-
+using cypress 10.11.0
 npm init
 #Once done, run the command below to install Cypress#.
 
-npm install c
+npm install cypress
 
 then 
 run
